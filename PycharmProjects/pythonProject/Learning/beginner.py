@@ -1,0 +1,8 @@
+enter = input("Hello!What's your name?: ")
+print("Hello "+enter)
+age = input("And how old are you?: ")
+print("ah I see that you're "+age+" years old")
+print("let see are you smart enough to answer these fews simple math questions")
+start = input("Are you ready?: ")
+print("let's begin")
+ask = input("what's 1+1?: ")
