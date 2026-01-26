@@ -93,7 +93,7 @@ python "python refresh/projects/quiz game.py"
 Or navigate to a specific directory:
 ```bash
 cd "python refresh/Learning"
-python variable.py
+python "variable.py"
 ```
 
 ## 💡 How to Use This Repository
