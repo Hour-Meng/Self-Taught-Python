@@ -2,8 +2,6 @@
 # Firstly you need to install PyQt5 package if you haven't already
 # Type pip install PyQt5 in your terminal
 # Remember when installing every package make sure your virtual environment (venv) is activated
-import os
-
 
 import sys
 
