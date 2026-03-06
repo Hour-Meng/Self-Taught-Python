@@ -2,7 +2,6 @@
 #               The concept of duck typing is that 
 #               "If it looks like a duck and quacks like a duck, it must be a duck"
 
-
 class Animal():
     alive = True
 
